@@ -13,7 +13,7 @@ Xy = np.array(Xy[1:], dtype = np.float64)
 np.random.seed(0)
 np.random.shuffle(Xy)
 
-# ホールドアウト法
+# ホールドアウト
 train_X = Xy[:-1000, :-1]
 train_y = Xy[:-1000, -1]
 test_X = Xy[-1000:, :-1]
