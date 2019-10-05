@@ -38,4 +38,10 @@ def hungman(word):
         else:
             ditermine = False
 
-hungman("apple")
+def chooseword():
+
+    import random
+    word_list = ["apple", "orange", "banana", "lemon"]
+    return random.choice(word_list)
+
+hungman(chooseword())
