@@ -70,3 +70,11 @@ D = [1,2,3]
 E = [5,6,7]
 F =D+E
 print(F)
+
+A = np.arange(9).reshape(3,3)
+B = np.arange(10,19).reshape(3,3)
+print(A)
+print(B)
+
+print(np.r_[A,B])
+print(np.vstack((A,B)))
