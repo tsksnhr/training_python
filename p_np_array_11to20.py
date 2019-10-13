@@ -1,3 +1,5 @@
+import numpy as np
+
 #11 Create a 3x3 identity matrix
 A = np.eye(3)
 print(A)
