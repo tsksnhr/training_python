@@ -1,0 +1,105 @@
+name: 
+date: 
+semester: 
+
+quize_num: 14
+
+
+No.1  What's the answer of l?
+Options
+W. 10
+X. 6
+Y. 12
+Z. 3
+
+No.2  What's the answer of h?
+Options
+W. 7
+X. 6
+Y. 13
+Z. 8
+
+No.3  What's the answer of i?
+Options
+W. 9
+X. 14
+Y. 3
+Z. 1
+
+No.4  What's the answer of b?
+Options
+W. 14
+X. 5
+Y. 2
+Z. 11
+
+No.5  What's the answer of e?
+Options
+W. 5
+X. 12
+Y. 8
+Z. 2
+
+No.6  What's the answer of j?
+Options
+W. 11
+X. 14
+Y. 10
+Z. 5
+
+No.7  What's the answer of f?
+Options
+W. 3
+X. 13
+Y. 6
+Z. 4
+
+No.8  What's the answer of g?
+Options
+W. 7
+X. 13
+Y. 10
+Z. 11
+
+No.9  What's the answer of n?
+Options
+W. 7
+X. 8
+Y. 3
+Z. 14
+
+No.10  What's the answer of c?
+Options
+W. 3
+X. 12
+Y. 7
+Z. 13
+
+No.11  What's the answer of m?
+Options
+W. 4
+X. 2
+Y. 9
+Z. 13
+
+No.12  What's the answer of d?
+Options
+W. 12
+X. 4
+Y. 3
+Z. 5
+
+No.13  What's the answer of a?
+Options
+W. 1
+X. 6
+Y. 5
+Z. 2
+
+No.14  What's the answer of k?
+Options
+W. 11
+X. 1
+Y. 4
+Z. 14
+

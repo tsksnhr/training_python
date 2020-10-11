@@ -1,0 +1,239 @@
+2020-10-11 22:44:06,131 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:06,131 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:06,131 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:06,131 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:06,131 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:06,131 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:06,131 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:06,131 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:06,132 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:06,132 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:06,132 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:06,132 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:06,132 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:06,132 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:06,136 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:08,690 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:08,690 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:08,690 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:08,691 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:08,691 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:08,691 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:08,691 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:08,691 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:08,691 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:08,691 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:08,691 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:08,691 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:08,691 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:08,691 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:08,691 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:23,599 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:23,600 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:23,600 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:23,600 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:23,600 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:23,600 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:23,600 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:23,600 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:23,600 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:23,600 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:23,600 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:23,600 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:23,600 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:23,601 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:23,601 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:23,983 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:23,984 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:23,984 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:23,984 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:23,984 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:23,984 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:23,984 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:23,984 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:23,984 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:23,984 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:23,984 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:23,984 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:23,984 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:23,984 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:23,984 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:24,287 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,287 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,287 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,287 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,287 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:24,287 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,287 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,287 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,287 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,287 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:24,287 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:24,287 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:24,287 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:24,288 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:24,288 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:24,487 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,487 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,487 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,487 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,487 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:24,487 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,487 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,488 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,488 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,488 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:24,488 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:24,488 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:24,488 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:24,488 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:24,488 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:24,607 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,608 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,608 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,608 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,608 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:24,608 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,608 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,608 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,608 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,608 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:24,608 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:24,608 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:24,608 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:24,608 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:24,608 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:24,774 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,774 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,775 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,775 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,775 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:24,775 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,775 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,775 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,775 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,775 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:24,775 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:24,776 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:24,776 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:24,776 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:24,776 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:24,895 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,895 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,895 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,895 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,895 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:24,895 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:24,895 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:24,895 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:24,895 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:24,895 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:24,895 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:24,895 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:24,895 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:24,895 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:24,895 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:39,638 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:39,639 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:39,639 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:39,639 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:39,639 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:39,639 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:39,639 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:39,639 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:39,639 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:39,639 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:39,639 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:39,639 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:39,640 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:39,640 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:39,640 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:40,047 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:40,047 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:40,047 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:40,047 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:40,047 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:40,048 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:40,048 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:40,048 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:40,048 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:40,048 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:40,048 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:40,048 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:40,048 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:40,048 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:40,048 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:40,366 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:40,367 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:40,367 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:40,367 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:40,367 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:40,367 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:40,367 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:40,368 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:40,368 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:40,368 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:40,368 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:40,368 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:40,368 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:40,368 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:40,368 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:50,442 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:50,442 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:50,443 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:50,443 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:50,443 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:50,443 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:50,443 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:50,443 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:50,443 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:50,443 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:50,443 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:50,443 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:50,443 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:50,443 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:50,444 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 22:44:52,327 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:52,327 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:52,327 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:52,327 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:52,328 - DEBUG - ans = 24.
+Finished.
+2020-10-11 22:44:52,328 - DEBUG - factrial of 1 is 1
+2020-10-11 22:44:52,328 - DEBUG - factrial of 2 is 2
+2020-10-11 22:44:52,328 - DEBUG - factrial of 3 is 6
+2020-10-11 22:44:52,328 - DEBUG - factrial of 4 is 24
+2020-10-11 22:44:52,328 - DEBUG - factrial of 5 is 120
+2020-10-11 22:44:52,328 - DEBUG - factrial of 6 is 720
+2020-10-11 22:44:52,328 - DEBUG - factrial of 7 is 5040
+2020-10-11 22:44:52,328 - DEBUG - factrial of 8 is 40320
+2020-10-11 22:44:52,328 - DEBUG - factrial of 9 is 362880
+2020-10-11 22:44:52,328 - DEBUG - ans = 362880.
+Finished.
+2020-10-11 23:19:16,298 - DEBUG - toss = 1, guess = surface

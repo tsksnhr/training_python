@@ -1,0 +1,105 @@
+name: 
+date: 
+semester: 
+
+quize_num: 19
+
+
+No.1  What's the answer of a?
+Options
+W. 2
+X. 1
+Y. 4
+Z. 5
+
+No.2  What's the answer of k?
+Options
+W. 6
+X. 12
+Y. 11
+Z. 9
+
+No.3  What's the answer of i?
+Options
+W. 9
+X. 12
+Y. 8
+Z. 10
+
+No.4  What's the answer of m?
+Options
+W. 8
+X. 14
+Y. 13
+Z. 5
+
+No.5  What's the answer of b?
+Options
+W. 13
+X. 5
+Y. 1
+Z. 2
+
+No.6  What's the answer of h?
+Options
+W. 8
+X. 9
+Y. 1
+Z. 7
+
+No.7  What's the answer of c?
+Options
+W. 2
+X. 5
+Y. 13
+Z. 3
+
+No.8  What's the answer of d?
+Options
+W. 5
+X. 8
+Y. 11
+Z. 4
+
+No.9  What's the answer of j?
+Options
+W. 9
+X. 13
+Y. 10
+Z. 14
+
+No.10  What's the answer of f?
+Options
+W. 6
+X. 14
+Y. 8
+Z. 11
+
+No.11  What's the answer of e?
+Options
+W. 14
+X. 2
+Y. 5
+Z. 1
+
+No.12  What's the answer of n?
+Options
+W. 14
+X. 5
+Y. 8
+Z. 3
+
+No.13  What's the answer of l?
+Options
+W. 12
+X. 6
+Y. 1
+Z. 2
+
+No.14  What's the answer of g?
+Options
+W. 11
+X. 7
+Y. 4
+Z. 1
+
