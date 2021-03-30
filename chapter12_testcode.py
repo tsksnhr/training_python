@@ -1,3 +1,5 @@
+# chapter 12.1 - 12.3
+
 # import module
 import os
 import openpyxl
@@ -80,3 +82,17 @@ for row_of_cell_obj in active_sheet["A1":"C3"]:
     for cell_obj in row_of_cell_obj:
         print(cell_obj.coordinate, cell_obj.value)
     print("--- END OF ROW ---")
+print()
+
+# rows ans columns method
+for each_row_obj in active_sheet.rows:
+    print(each_row_obj)
+    for cell_obj in each_row_obj:
+        print(cell_obj.value)
+print()
+
+for each_column_obj in active_sheet.columns:
+    print(each_column_obj)
+    for cell_obj in each_column_obj:
+        print(cell_obj.value)
+print()
